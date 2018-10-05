@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "wwwroot/plugin/darkly/_bootswatch.css",
+    "inputFile": "wwwroot/plugin/darkly/_bootswatch.scss"
+  },
+  {
+    "outputFile": "wwwroot/plugin/darkly/_variables.css",
+    "inputFile": "wwwroot/plugin/darkly/_variables.scss"
+  }
+]

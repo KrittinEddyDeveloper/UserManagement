@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeDotNetCore", "PracticeDotNetCore\PracticeDotNetCore.csproj", "{7DB322D8-CD58-4A4A-9B49-35735593C6FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentation", "1. Presentation", "{967B5920-28A1-4FBD-8DA8-03E148F136DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. ApplicationCore", "2. ApplicationCore", "{01E1ECD0-6DDE-4075-A7F7-11A7096C0FD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Infrastructure", "3. Infrastructure", "{2DFD7777-4B2C-4EAE-B4AD-8FAA3341DF48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB322D8-CD58-4A4A-9B49-35735593C6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB322D8-CD58-4A4A-9B49-35735593C6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB322D8-CD58-4A4A-9B49-35735593C6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB322D8-CD58-4A4A-9B49-35735593C6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7DB322D8-CD58-4A4A-9B49-35735593C6FD} = {967B5920-28A1-4FBD-8DA8-03E148F136DE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60929C8A-D5FD-48B1-AEF1-914AD5D8F0BB}
+	EndGlobalSection
+EndGlobal
